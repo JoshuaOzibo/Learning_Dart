@@ -29,5 +29,5 @@ void main(){
     // var name; // name is null
     // name = "Joshua"; // now name is a string
 
-    print(name);
+    // print(name);
 }
